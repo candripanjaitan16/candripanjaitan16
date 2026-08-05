@@ -70,3 +70,5 @@ Membangun software yang modern, sederhana, dan bermanfaat.
 <b>Membangun solusi digital yang bermanfaat untuk banyak orang.</b>
 
 </p>
+
+<iframe src="https://giphy.com/embed/T9VmV6IuxzF0BuJ9Ty" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Otomato-git-otomato-gitpush-T9VmV6IuxzF0BuJ9Ty">via GIPHY</a></p>
