@@ -1,52 +1,80 @@
-# 👋 Halo, saya Candri Panjaitan
+<h1 align="center">Halo, saya Candri Panjaitan 👋</h1>
 
-💻 Saya suka membuat dan mengembangkan **aplikasi desktop**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Software+Engineer;Desktop+App+Developer;Building+ChanIt+%26+ChanSecurity;Learning+%26+Growing+Every+Day" alt="Typing SVG" />
+</p>
 
-Saya tertarik dengan dunia software development dan senang membuat berbagai project untuk belajar, bereksperimen, dan mencoba hal-hal baru.
+<p align="center">
+  <img src="https://img.shields.io/badge/role-Web%20%26%20Desktop%20Developer-2ECC71?style=flat-square" />
+  <img src="https://img.shields.io/badge/location-Indonesia-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-Software%20Engineering%20%26%20Linux-orange?style=flat-square" />
+</p>
 
 ---
 
-## 🚀 Project
+### 💻 Tentang Saya
+
+- 🔭 Saat ini sedang membangun **aplikasi desktop** untuk ekosistem AI & keamanan sistem
+- 🌱 Terus belajar **Software Engineering** & **Linux**
+- 🧪 Suka bereksperimen dengan project baru untuk belajar hal-hal baru
+- 📍 Web Developer dari Indonesia
+- ⚡ Growing every day
+
+---
+
+### 🚀 Project Saya
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/candripanjaitan16/ChanSecurity">
-        <img src="assets/iconChanSecurity.png" width="180" alt="ChanSecurity">
+        <img src="https://github.com/candripanjaitan16/ChanSecurity/raw/main/assets/iconChanSecurity.png" width="90" /><br/>
+        <b>ChanSecurity</b>
       </a>
-      <br>
-      <b>ChanSecurity</b>
+      <br/>
+      <sub>Sistem monitoring RAM, GPU & Network real-time</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/candripanjaitan16/OPENTCS">
-        <img src="assets/IconOpents.png" width="180" alt="OPENTCS">
+    <td align="center" width="50%">
+      <a href="https://github.com/candripanjaitan16/ChanIt">
+        <img src="https://github.com/candripanjaitan16/ChanIt/raw/main/assets/IconOpents.png" width="90" /><br/>
+        <b>ChanIt</b>
       </a>
-      <br>
-      <b>OPENTCS</b>
+      <br/>
+      <sub>Local AI Runtime & Model Server</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Yang Saya Suka
+### 🛠️ Tech Stack
 
-* 🖥️ Aplikasi Desktop
-* 💻 Software Development
-* ⚙️ Membuat berbagai project
-* 🧠 Belajar teknologi baru
-* 🚀 Bereksperimen dengan ide-ide baru
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-<<<<<<< HEAD
-
-<b>Membangun solusi digital yang bermanfaat untuk banyak orang.</b>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=candripanjaitan16&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=candripanjaitan16&theme=radical&hide_border=true" width="48%" />
 </p>
 
-=======
-  <i>Terima kasih sudah berkunjung ke profil saya! 👋</i>
+---
+
+### 🌐 Terhubung Dengan Saya
+
+<p align="center">
+  <a href="https://github.com/candripanjaitan16">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
->>>>>>> 2a8f058 (Update)
+
+<p align="center"><i>⭐️ From <a href="https://github.com/candripanjaitan16">candripanjaitan16</a></i></p>
