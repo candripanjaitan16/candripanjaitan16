@@ -28,15 +28,15 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/candripanjaitan16/ChanSecurity">
-        <img src="https://github.com/candripanjaitan16/ChanSecurity/raw/main/assets/iconChanSecurity.png" width="90" /><br/>
+        <img src="assets/iconChanSecurity.png" width="90" /><br/>
         <b>ChanSecurity</b>
       </a>
       <br/>
       <sub>Sistem monitoring RAM, GPU & Network real-time</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/candripanjaitan16/ChanIt">
-        <img src="https://github.com/candripanjaitan16/ChanIt/raw/main/assets/IconOpents.png" width="90" /><br/>
+      <a href="https://github.com/candripanjaitan16/chanit">
+        <img src="assets/IconOpents.png" width="90" /><br/>
         <b>ChanIt</b>
       </a>
       <br/>
