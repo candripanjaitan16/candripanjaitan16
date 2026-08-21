@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/focus-Software%20Engineering%20%26%20Linux-orange?style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=candripanjaitan16&label=Profile%20views&color=2ECC71&style=flat-square" />
+</p>
+
 ---
 
 ### 💻 Tentang Saya
@@ -28,19 +32,19 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/candripanjaitan16/ChanSecurity">
-        <img src="assets/iconChanSecurity.png" width="90" /><br/>
+        <img src="https://raw.githubusercontent.com/candripanjaitan16/ChanSecurity/main/assets/iconChanSecurity.png" width="90" height="90" style="border-radius:16px;object-fit:cover;" /><br/>
         <b>ChanSecurity</b>
       </a>
       <br/>
-      <sub>Sistem monitoring RAM, GPU & Network real-time</sub>
+      <sub>Monitoring RAM, GPU &amp; Network real-time</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/candripanjaitan16/chanit">
-        <img src="assets/IconOpents.png" width="90" /><br/>
+      <a href="https://github.com/candripanjaitan16/ChanIt">
+        <img src="https://raw.githubusercontent.com/candripanjaitan16/ChanIt/main/assets/IconOpents.png" width="90" height="90" style="border-radius:16px;object-fit:cover;" /><br/>
         <b>ChanIt</b>
       </a>
       <br/>
-      <sub>Local AI Runtime & Model Server</sub>
+      <sub>Local AI Runtime &amp; Model Server</sub>
     </td>
   </tr>
 </table>
@@ -63,8 +67,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candripanjaitan16&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=candripanjaitan16&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=candripanjaitan16&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candripanjaitan16&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
