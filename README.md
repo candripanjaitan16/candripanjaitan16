@@ -36,7 +36,6 @@
         <b>ChanSecurity</b>
       </a>
       <br/>
-      <sub>Monitoring RAM, GPU &amp; Network</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/candripanjaitan16/ChanIt">
@@ -44,7 +43,6 @@
         <b>ChanIt</b>
       </a>
       <br/>
-      <sub>Local AI Runtime &amp; Model Server</sub>
     </td>
   </tr>
 </table>
