@@ -1,73 +1,52 @@
-<p align="center">
-  <img src="banner/banner.png" width="100%" alt="Banner">
-</p>
+# 👋 Halo, saya Candri Panjaitan
 
-<h1 align="center">Halo, saya Candri Panjaitan 👋</h1>
+💻 Saya suka membuat dan mengembangkan **aplikasi desktop**.
 
-<p align="center">
-Software Engineer • Open Source Developer
-</p>
-
-<p align="center">
-Membangun software yang modern, sederhana, dan bermanfaat.
-</p>
-
-<p align="center">
-<a href="https://candri.my.id">🌐 Portfolio</a> •
-<a href="mailto:candripanjaitan16@gmail.com">📧 Email</a> •
-<a href="https://github.com/candripanjaitan16">💻 GitHub</a>
-</p>
+Saya tertarik dengan dunia software development dan senang membuat berbagai project untuk belajar, bereksperimen, dan mencoba hal-hal baru.
 
 ---
 
-## 🚀 Sedang Dibangun
+## 🚀 Project
 
-- 🤖 **Chanthecno** — Platform Software Engineering & AI Automation
-- 🛡️ **ChanSecurity** — Open Source Cyber Security
-- 🌱 **GoodFarm** — Smart Agriculture Platform
-
----
-
-## 💻 Teknologi
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flutter,js,git,github,linux,godot,vscode&perline=4"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=candripanjaitan16&theme=tokyonight&hide_border=true"/>
-
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/candripanjaitan16/ChanSecurity">
+        <img src="assets/iconChanSecurity.png" width="180" alt="ChanSecurity">
+      </a>
+      <br>
+      <b>ChanSecurity</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/candripanjaitan16/OPENTCS">
+        <img src="assets/IconOpents.png" width="180" alt="OPENTCS">
+      </a>
+      <br>
+      <b>OPENTCS</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
+## 🛠️ Yang Saya Suka
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=candripanjaitan16&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 📫 Hubungi Saya
-
-- 🌐 https://candri.my.id
-- 📧 candripanjaitan16@gmail.com
+* 🖥️ Aplikasi Desktop
+* 💻 Software Development
+* ⚙️ Membuat berbagai project
+* 🧠 Belajar teknologi baru
+* 🚀 Bereksperimen dengan ide-ide baru
 
 ---
 
 <p align="center">
+<<<<<<< HEAD
 
 <b>Membangun solusi digital yang bermanfaat untuk banyak orang.</b>
 
 </p>
 
+=======
+  <i>Terima kasih sudah berkunjung ke profil saya! 👋</i>
+</p>
+>>>>>>> 2a8f058 (Update)
