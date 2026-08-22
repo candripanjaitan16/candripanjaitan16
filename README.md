@@ -1,7 +1,7 @@
 <h1 align="center">Halo, saya Candri Panjaitan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Software+Engineer;Desktop+App+Developer;Building+ChanIt+%26+ChanSecurity;Learning+%26+Growing+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Software+Engineer;Desktop+App+Developer;Building+chanthecno+%26+ChanSecurity;Learning+%26+Growing+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,9 +38,9 @@
       <br/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/candripanjaitan16/ChanIt">
-        <img src="https://github.com/candripanjaitan16/chanit/blob/main/src-tauri/icons/icon.png?raw=true" width="90" height="90" style="border-radius:16px;object-fit:cover;" /><br/>
-        <b>ChanIt</b>
+      <a href="https://github.com/candripanjaitan16/chanthecno">
+        <img src="https://github.com/candripanjaitan16/chanthecno/blob/main/src-tauri/icons/icon.png?raw=true" width="90" height="90" style="border-radius:16px;object-fit:cover;" /><br/>
+        <b>chanthecno</b>
       </a>
       <br/>
     </td>
