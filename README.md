@@ -1,11 +1,11 @@
-<h1 align="center">Candri Panjaitan</h1>
+<h1 align="center">Halo, saya Candri Panjaitan 👋</h1>
 
 <p align="center">
   <strong>Software Engineer · AI-Assisted Developer · Builder of ChanThecno</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2ECC71&center=true&vCenter=true&width=700&lines=Software+Engineer;AI-Assisted+Software+Developer;Building+ChanThecno;Software+%7C+AI+%7C+Automation;Learning+by+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2ECC71&center=true&vCenter=true&width=700&lines=Software+Engineer;AI-Assisted+Software+Developer;Building+ChanThecno+since+2025;Software+%7C+AI+%7C+Automation;Learning+by+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,21 +20,25 @@
   <img src="https://komarev.com/ghpvc/?username=candripanjaitan16&label=Profile%20views&color=2ECC71&style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="#-english">🇬🇧 English</a> &nbsp;·&nbsp; <a href="#-bahasa-indonesia">🇮🇩 Bahasa Indonesia</a>
+</p>
+
 ---
 
 # 🇬🇧 English
 
 ## 👋 About Me
 
-Hello! I'm **Candri Panjaitan**, a **Software Engineer and AI-Assisted Developer from Indonesia** focused on building software with the help of **Artificial Intelligence, automation, and modern development tools**.
+Hi! I'm **Candri Panjaitan** — often called **Candri**, **Can**, or **Chan** — a **Software Engineer and AI-Assisted Developer from Indonesia**, focused on building software with the help of **Artificial Intelligence, automation, and modern development tools**.
+
+My interest in technology, especially computers, started back in **junior high school (SMP)**. Alongside coding, I also enjoy writing — I like typing out stories, and I often use AI as part of that creative process too.
 
 My main focus is **software engineering** — understanding how software works as a system, designing its architecture, solving technical problems, implementing features, testing them, and continuously improving the result.
 
-I use AI as part of my development workflow.
+I use AI as part of my development workflow — not as a replacement for engineering, but as a **development tool and force multiplier**.
 
-Not as a replacement for engineering, but as a **development tool and force multiplier**.
-
-My approach is:
+My approach:
 
 ```text
 Understand
@@ -50,9 +54,7 @@ Test
 Improve
 ```
 
-I believe the future of software development is not about humans competing against AI.
-
-It is about **engineers learning how to work effectively with AI**.
+I believe the future of software development isn't about humans competing against AI — it's about **engineers learning how to work effectively with AI**.
 
 ---
 
@@ -67,7 +69,7 @@ It is about **engineers learning how to work effectively with AI**.
 <h3 align="center">ChanThecno</h3>
 
 <p align="center">
-  <strong>An AI-assisted software project and engineering ecosystem.</strong>
+  <strong>An AI-assisted software project and engineering ecosystem, in development since 2025.</strong>
 </p>
 
 <p align="center">
@@ -76,9 +78,17 @@ It is about **engineers learning how to work effectively with AI**.
   </a>
 </p>
 
-**ChanThecno** is my primary software engineering project.
+**ChanThecno** is a desktop AI-chat application I've been designing and building since **2025** — where users bring their own API key (Claude, Gemini, GPT, or any OpenAI-compatible endpoint like Groq), with no accounts, no middleman, and no subscription fees.
 
-It is where I explore the intersection of:
+### 🎯 Vision
+
+To build an **AI Automation** application — using either the user's own API or ChanThecno's own API — to support business needs, such as sales businesses or any other business that requires AI automation technology.
+
+### 🧭 Mission
+
+**Build → Break → Understand → Fix → Improve.**
+
+Beyond the app itself, ChanThecno is where I explore the intersection of:
 
 * 🤖 Artificial Intelligence
 * 💻 Software Engineering
@@ -89,49 +99,24 @@ It is where I explore the intersection of:
 * 🐧 Linux
 * 🌐 Modern Web Technologies
 
-ChanThecno is more than just an application.
-
-It is part of my journey to understand how **AI-assisted engineering workflows can be used to design, build, and maintain real software systems**.
+ChanThecno is more than just an application — it's part of my journey to understand how **AI-assisted engineering workflows can be used to design, build, and maintain real software systems**.
 
 ---
 
 ## 🤖 How I Use AI
 
-AI is an important part of my development workflow.
+AI is an important part of my development workflow. I use it to help with:
 
-I use AI to help with:
+| Area | What I use AI for |
+|---|---|
+| 🏗️ Architecture | Exploring system structures, technical approaches, and possible implementations |
+| 💻 Implementation | Turning designs and requirements into working software faster |
+| 🔍 Debugging | Analyzing errors and exploring possible solutions |
+| 📚 Research | Learning unfamiliar technologies and technical concepts |
+| ⚙️ Automation | Reducing repetitive development work and connecting systems |
+| 📝 Documentation | Organizing technical information and project knowledge |
 
-### 🏗️ Architecture
-
-Exploring system structures, technical approaches, and possible implementations.
-
-### 💻 Implementation
-
-Turning designs and requirements into working software faster.
-
-### 🔍 Debugging
-
-Analyzing errors and exploring possible solutions.
-
-### 📚 Research
-
-Learning unfamiliar technologies and understanding technical concepts.
-
-### ⚙️ Automation
-
-Reducing repetitive development work and connecting different systems.
-
-### 📝 Documentation
-
-Organizing technical information and project knowledge.
-
-But AI does not decide what the software should become.
-
-I define the:
-
-**Requirements · Architecture · Constraints · Logic · Direction**
-
-AI helps me move faster.
+But AI doesn't decide what the software should become. I define the **Requirements · Architecture · Constraints · Logic · Direction**. AI just helps me move faster.
 
 > **AI writes code. I engineer the system.**
 
@@ -139,61 +124,24 @@ AI helps me move faster.
 
 ## 🧠 Engineering Philosophy
 
-I don't believe programming is only about memorizing syntax.
-
-Programming is about **problem solving**.
-
-Software engineering goes further:
+Programming isn't just about memorizing syntax — it's about **problem solving**. Software engineering goes further:
 
 ```text
-Problem
-   ↓
-Requirements
-   ↓
-Architecture
-   ↓
-Implementation
-   ↓
-Testing
-   ↓
-Deployment
-   ↓
-Maintenance
-   ↓
-Improvement
+Problem → Requirements → Architecture → Implementation → Testing → Deployment → Maintenance → Improvement
 ```
 
-That is the mindset I am developing through my projects.
+That's the mindset I keep developing through every project I build.
 
 ---
 
 ## 🏗️ What I'm Building
 
-My current development journey focuses on:
-
-### 🤖 Artificial Intelligence
-
-Exploring how AI can become a practical part of software development and automation.
-
-### 🏗️ Software Engineering
-
-Learning architecture, modularity, maintainability, debugging, testing, packaging, and deployment.
-
-### 🖥️ Desktop Applications
-
-Building applications that run directly on the user's computer.
-
-### ⚙️ Automation
-
-Creating systems that reduce repetitive work and connect different components.
-
-### 🐧 Linux
-
-Learning how software interacts with operating systems through a Linux-based development environment.
-
-### 🔐 Security
-
-Continuing to learn about cybersecurity, secure software, and system-level concepts.
+* 🤖 **Artificial Intelligence** — exploring how AI becomes a practical part of software development and automation
+* 🏗️ **Software Engineering** — architecture, modularity, maintainability, debugging, testing, packaging, deployment
+* 🖥️ **Desktop Applications** — software that runs directly on the user's computer
+* ⚙️ **Automation** — systems that reduce repetitive work and connect components
+* 🐧 **Linux** — how software interacts with operating systems, in a Linux-based dev environment
+* 🔐 **Security** — cybersecurity, secure software, and system-level concepts
 
 ---
 
@@ -214,49 +162,17 @@ Continuing to learn about cybersecurity, secure software, and system-level conce
 
 ## 📚 Currently Learning
 
-I'm continuously improving my knowledge in:
-
-* Software Architecture
-* System Design
-* Artificial Intelligence
-* AI-Assisted Development
-* Python Development
-* Desktop Application Development
-* Web Development
-* Linux
-* Cybersecurity
-* Automation
-* API Integration
-* Git & GitHub
-* Software Packaging
-* Deployment
+Software Architecture · System Design · Artificial Intelligence · AI-Assisted Development · Python · Desktop Application Development · Web Development · Linux · Cybersecurity · Automation · API Integration · Git & GitHub · Software Packaging · Deployment
 
 ---
 
 ## 🎯 Long-Term Direction
 
-My goal is to become a stronger **software engineer and technology builder** by continuously building real projects.
-
-I want to understand not only how to write code, but also:
-
-* Why a system should be designed in a certain way
-* How different components communicate
-* How applications are distributed
-* How software behaves on real operating systems
-* How AI can improve engineering workflows
-* How to turn an idea into a working product
+My goal is to become a stronger **software engineer and technology builder** by continuously building real projects. I want to understand not only how to write code, but also *why* a system is designed a certain way, how components communicate, how software is distributed, how it behaves on real operating systems, and how AI can improve engineering workflows.
 
 I learn primarily by **building things**.
 
----
-
-## 🌱 Learning Through Building
-
-Instead of trying to learn every technology before building anything, I prefer:
-
 > **Build → Break → Understand → Fix → Improve**
-
-Every project gives me another opportunity to learn something new.
 
 **ChanThecno is currently the center of that journey.**
 
@@ -281,6 +197,9 @@ Every project gives me another opportunity to learn something new.
   <a href="https://github.com/candripanjaitan16">
     <img src="https://img.shields.io/badge/GitHub-Candri%20Panjaitan-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:candripanjaitan16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-candripanjaitan16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -289,13 +208,13 @@ Every project gives me another opportunity to learn something new.
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Candri Panjaitan**, seorang **Software Engineer dan AI-Assisted Developer dari Indonesia** yang berfokus pada pengembangan software dengan memanfaatkan **Artificial Intelligence, automation, dan berbagai teknologi modern**.
+Halo! Saya **Candri Panjaitan** — akrab disapa **Candri**, **Can**, atau **Chan** — seorang **Software Engineer dan AI-Assisted Developer dari Indonesia**, berfokus pada pengembangan software dengan memanfaatkan **Artificial Intelligence, automation, dan berbagai teknologi modern**.
+
+Ketertarikan saya pada teknologi, terutama komputer, sudah dimulai sejak masih **SMP**. Selain coding, saya juga suka menulis/mengetik cerita, dan sering menggunakan AI sebagai bagian dari proses berkarya tersebut.
 
 Fokus utama saya adalah **software engineering** — memahami bagaimana software bekerja sebagai sebuah sistem, merancang arsitektur, menyelesaikan masalah teknis, mengimplementasikan fitur, melakukan pengujian, dan terus meningkatkan kualitas software.
 
-Saya menggunakan AI sebagai bagian dari workflow development saya.
-
-Bukan sebagai pengganti kemampuan engineering, tetapi sebagai **alat untuk mempercepat proses development**.
+Saya menggunakan AI sebagai bagian dari workflow development saya — bukan sebagai pengganti kemampuan engineering, tetapi sebagai **alat untuk mempercepat proses development**.
 
 Pendekatan saya:
 
@@ -313,9 +232,7 @@ Melakukan testing
 Memperbaiki dan mengembangkan
 ```
 
-Saya percaya masa depan software development bukan tentang manusia melawan AI.
-
-Tetapi tentang **bagaimana seorang engineer dapat bekerja bersama AI dengan lebih efektif**.
+Saya percaya masa depan software development bukan tentang manusia melawan AI, tetapi tentang **bagaimana seorang engineer dapat bekerja bersama AI dengan lebih efektif**.
 
 ---
 
@@ -330,7 +247,7 @@ Tetapi tentang **bagaimana seorang engineer dapat bekerja bersama AI dengan lebi
 <h3 align="center">ChanThecno</h3>
 
 <p align="center">
-  <strong>Project utama saya dalam mengeksplorasi software engineering berbasis AI.</strong>
+  <strong>Project utama saya dalam mengeksplorasi software engineering berbasis AI, dirancang sejak 2025.</strong>
 </p>
 
 <p align="center">
@@ -339,9 +256,17 @@ Tetapi tentang **bagaimana seorang engineer dapat bekerja bersama AI dengan lebi
   </a>
 </p>
 
-**ChanThecno** merupakan project utama saya dalam perjalanan belajar dan membangun software.
+**ChanThecno** adalah aplikasi desktop chat AI yang mulai saya rancang sejak **2025** — di mana pengguna membawa API key sendiri (Claude, Gemini, GPT, atau endpoint OpenAI-compatible seperti Groq), tanpa akun, tanpa perantara, dan tanpa biaya langganan.
 
-Di dalamnya saya mengeksplorasi berbagai bidang:
+### 🎯 Visi
+
+Membuat aplikasi **AI Automation** dengan menggunakan API sendiri maupun API ChanThecno, untuk membantu kebutuhan bisnis — seperti bisnis penjualan maupun bisnis lain yang membutuhkan teknologi AI Automation.
+
+### 🧭 Misi
+
+**Bangun, Rusak, Pahami, Perbaiki, Kembangkan.**
+
+Di luar aplikasinya sendiri, ChanThecno adalah tempat saya mengeksplorasi:
 
 * 🤖 Artificial Intelligence
 * 💻 Software Engineering
@@ -352,49 +277,22 @@ Di dalamnya saya mengeksplorasi berbagai bidang:
 * 🐧 Linux
 * 🌐 Web Technologies
 
-ChanThecno bukan hanya sebuah aplikasi.
-
-Project ini menjadi tempat saya mempelajari bagaimana **AI dapat digunakan sebagai bagian dari workflow software engineering untuk merancang, membangun, dan mengembangkan software nyata.**
+ChanThecno bukan hanya sebuah aplikasi — ia menjadi tempat saya mempelajari bagaimana **AI dapat digunakan sebagai bagian dari workflow software engineering untuk merancang, membangun, dan mengembangkan software nyata.**
 
 ---
 
 ## 🤖 Bagaimana Saya Menggunakan AI
 
-AI merupakan bagian penting dari workflow development saya.
+| Bidang | Kegunaan AI |
+|---|---|
+| 🏗️ Arsitektur | Mengeksplorasi struktur sistem, pendekatan teknis, dan kemungkinan implementasi |
+| 💻 Implementasi | Mempercepat proses mengubah rancangan dan requirement menjadi software yang berjalan |
+| 🔍 Debugging | Menganalisis error dan mencari kemungkinan solusi |
+| 📚 Research | Mempelajari teknologi baru dan konsep-konsep teknis yang belum saya kuasai |
+| ⚙️ Automation | Mengurangi pekerjaan development yang repetitif |
+| 📝 Dokumentasi | Mengorganisasi informasi teknis dan dokumentasi project |
 
-Saya menggunakan AI untuk membantu:
-
-### 🏗️ Arsitektur
-
-Mengeksplorasi struktur sistem, pendekatan teknis, dan kemungkinan implementasi.
-
-### 💻 Implementasi
-
-Mempercepat proses mengubah rancangan dan requirement menjadi software yang berjalan.
-
-### 🔍 Debugging
-
-Menganalisis error dan mencari kemungkinan solusi.
-
-### 📚 Research
-
-Mempelajari teknologi baru dan memahami konsep-konsep teknis yang belum saya kuasai.
-
-### ⚙️ Automation
-
-Mengurangi pekerjaan development yang repetitif.
-
-### 📝 Dokumentasi
-
-Membantu mengorganisasi informasi teknis dan dokumentasi project.
-
-Namun AI tidak menentukan software seperti apa yang ingin saya bangun.
-
-Saya yang menentukan:
-
-**Requirement · Arsitektur · Constraint · Logic · Direction**
-
-AI membantu saya bekerja lebih cepat.
+Namun AI tidak menentukan software seperti apa yang ingin saya bangun. Saya yang menentukan **Requirement · Arsitektur · Constraint · Logic · Direction**. AI hanya membantu saya bekerja lebih cepat.
 
 > **AI menulis kode. Saya meng-engineer sistemnya.**
 
@@ -402,61 +300,24 @@ AI membantu saya bekerja lebih cepat.
 
 ## 🧠 Filosofi Saya Dalam Software Engineering
 
-Bagi saya, programming bukan hanya tentang menghafal syntax.
-
-Programming adalah tentang **problem solving**.
-
-Software engineering memiliki cakupan yang lebih luas:
+Programming bukan hanya tentang menghafal syntax — melainkan tentang **problem solving**. Software engineering memiliki cakupan yang lebih luas:
 
 ```text
-Masalah
-   ↓
-Requirement
-   ↓
-Arsitektur
-   ↓
-Implementasi
-   ↓
-Testing
-   ↓
-Deployment
-   ↓
-Maintenance
-   ↓
-Improvement
+Masalah → Requirement → Arsitektur → Implementasi → Testing → Deployment → Maintenance → Improvement
 ```
 
-Itulah pola berpikir yang terus saya kembangkan melalui berbagai project.
+Itulah pola pikir yang terus saya kembangkan melalui setiap project.
 
 ---
 
 ## 🏗️ Apa yang Sedang Saya Bangun?
 
-Perjalanan development saya saat ini berfokus pada beberapa bidang.
-
-### 🤖 Artificial Intelligence
-
-Mengeksplorasi bagaimana AI dapat digunakan secara nyata dalam software development dan automation.
-
-### 🏗️ Software Engineering
-
-Mempelajari software architecture, modularity, maintainability, debugging, testing, packaging, dan deployment.
-
-### 🖥️ Desktop Application
-
-Membangun aplikasi yang dapat berjalan secara langsung pada komputer pengguna.
-
-### ⚙️ Automation
-
-Membuat sistem yang dapat mengurangi pekerjaan repetitif dan menghubungkan berbagai komponen software.
-
-### 🐧 Linux
-
-Mempelajari bagaimana software berinteraksi dengan sistem operasi menggunakan lingkungan Linux.
-
-### 🔐 Security
-
-Terus mempelajari cybersecurity, secure software, dan konsep system-level.
+* 🤖 **Artificial Intelligence** — mengeksplorasi penggunaan AI secara nyata dalam software development dan automation
+* 🏗️ **Software Engineering** — architecture, modularity, maintainability, debugging, testing, packaging, deployment
+* 🖥️ **Desktop Application** — aplikasi yang berjalan langsung di komputer pengguna
+* ⚙️ **Automation** — sistem yang mengurangi pekerjaan repetitif dan menghubungkan komponen
+* 🐧 **Linux** — bagaimana software berinteraksi dengan sistem operasi di lingkungan Linux
+* 🔐 **Security** — cybersecurity, secure software, dan konsep system-level
 
 ---
 
@@ -477,59 +338,17 @@ Terus mempelajari cybersecurity, secure software, dan konsep system-level.
 
 ## 📚 Yang Sedang Saya Pelajari
 
-Saya terus mengembangkan kemampuan dalam:
-
-* Software Architecture
-* System Design
-* Artificial Intelligence
-* AI-Assisted Development
-* Python Development
-* Desktop Application Development
-* Web Development
-* Linux
-* Cybersecurity
-* Automation
-* API Integration
-* Git & GitHub
-* Software Packaging
-* Deployment
+Software Architecture · System Design · Artificial Intelligence · AI-Assisted Development · Python Development · Desktop Application Development · Web Development · Linux · Cybersecurity · Automation · API Integration · Git & GitHub · Software Packaging · Deployment
 
 ---
 
 ## 🎯 Arah Jangka Panjang
 
-Tujuan saya adalah menjadi **software engineer dan technology builder** yang lebih kuat dengan terus membangun project nyata.
-
-Saya ingin memahami bukan hanya bagaimana menulis kode, tetapi juga:
-
-* Mengapa sebuah sistem dirancang dengan cara tertentu
-* Bagaimana komponen-komponen software berkomunikasi
-* Bagaimana aplikasi didistribusikan
-* Bagaimana software bekerja pada sistem operasi nyata
-* Bagaimana AI dapat meningkatkan workflow engineering
-* Bagaimana mengubah sebuah ide menjadi produk yang benar-benar berjalan
+Tujuan saya adalah menjadi **software engineer dan technology builder** yang lebih kuat dengan terus membangun project nyata. Saya ingin memahami bukan hanya bagaimana menulis kode, tetapi juga mengapa sebuah sistem dirancang dengan cara tertentu, bagaimana komponen berkomunikasi, bagaimana aplikasi didistribusikan, dan bagaimana AI dapat meningkatkan workflow engineering.
 
 Saya belajar terutama dengan **membangun sesuatu**.
 
----
-
-## 🌱 Belajar Dengan Cara Membangun
-
-Daripada mencoba mempelajari semua teknologi terlebih dahulu, saya lebih memilih:
-
-> **Build → Break → Understand → Fix → Improve**
-
-Bangun.
-
-Rusakkan.
-
-Pahami.
-
-Perbaiki.
-
-Kembangkan.
-
-Setiap project memberi saya kesempatan untuk memahami sesuatu yang baru.
+> **Bangun → Rusak → Pahami → Perbaiki → Kembangkan**
 
 **Dan saat ini, ChanThecno adalah pusat dari perjalanan tersebut.**
 
@@ -538,9 +357,9 @@ Setiap project memberi saya kesempatan untuk memahami sesuatu yang baru.
 ## 💡 Prinsip Saya
 
 > **Jangan hanya menulis kode. Bangun sistem.**
-
+>
 > **Jangan hanya menggunakan AI. Pahami bagaimana mengarahkannya.**
-
+>
 > **Jangan takut membuat sesuatu yang belum sempurna. Bangun, uji, rusak, dan perbaiki.**
 
 ---
@@ -551,12 +370,15 @@ Setiap project memberi saya kesempatan untuk memahami sesuatu yang baru.
   <a href="https://github.com/candripanjaitan16">
     <img src="https://img.shields.io/badge/GitHub-Candri%20Panjaitan-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:candripanjaitan16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-candripanjaitan16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Candri Panjaitan · Software Engineer · Indonesia · ChanThecno</strong>
+  <strong>Candri Panjaitan · Can · Chan · Software Engineer · Indonesia · ChanThecno</strong>
 </p>
 
 <p align="center">
