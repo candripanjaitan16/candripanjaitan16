@@ -1,4 +1,4 @@
-# Halo, saya Candri
+# Halo, saya Candri 👋
 
 Selamat datang di profil GitHub saya!
 
@@ -55,6 +55,14 @@ Repository utama ChanThecno saat ini bersifat **private**, sehingga hanya dapat 
 Saya ingin terus belajar, membangun proyek yang bermanfaat, dan memahami teknologi lebih dalam.
 
 Bagi saya, GitHub bukan hanya tempat untuk menyimpan kode, tetapi juga tempat untuk melihat perkembangan perjalanan saya sebagai developer.
+
+---
+
+## 🔗 Terhubung dengan Saya
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/candripanjaitan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/candri_panjaitan)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@candri_panjaitan)
 
 ---
 
