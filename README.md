@@ -18,7 +18,7 @@ Saya membuat akun GitHub ini sebagai tempat untuk belajar, bereksperimen, memban
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/candripanjaitan16/ChanThecnoCompany/main/public/chanthecno.svg" 
+    src="img/chanthecno.svg" 
     width="180" 
     alt="ChanThecno Logo"
   />
