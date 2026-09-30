@@ -4,6 +4,7 @@ import NewsNavbar from "../../components/NewsNavbar";
 import NewsCard from "../../components/NewsCard";
 import Footer from "../../components/Footer";
 import { categories, fetchArticles } from "../../data/news";
+import { useSeo } from "../../hooks/useSeo";
 
 const PAGE_SIZE = 6;
 
@@ -15,8 +16,14 @@ function DashboardNews() {
   const [category, setCategory] = useState("Semua");
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
+  useSeo({
+    title: "News | ChanThecno",
+    description:
+      "Kabar, pengumuman, dan tulisan terbaru dari ChanThecno tentang automation dan Artificial Intelligence.",
+    path: "/news",
+  });
+
   useEffect(() => {
-    document.title = "News | ChanThecno";
     fetchArticles()
       .then(setArticles)
       .catch(() => setFailed(true))

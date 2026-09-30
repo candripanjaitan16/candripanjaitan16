@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
+import RichEditor from "../../components/RichEditor";
 import {
   categories,
   createArticle,
@@ -57,6 +58,10 @@ function NewsForm() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    if (!content.trim()) {
+      setError("Isi berita wajib diisi.");
+      return;
+    }
     setSubmitting(true);
     setError("");
     const values = {
@@ -140,29 +145,24 @@ function NewsForm() {
             </label>
 
             <label className="flex flex-col gap-2 text-sm text-white/70">
-              Ringkasan
+              Ringkasan (tampil juga sebagai deskripsi di Google)
               <textarea
                 value={excerpt}
                 onChange={(e) => setExcerpt(e.target.value)}
                 required
+                maxLength={160}
                 rows={3}
                 className={inputClass}
               />
-            </label>
-
-            <label className="flex flex-col gap-2 text-sm text-white/70">
-              Isi berita
-              <textarea
-                value={content}
-                onChange={(e) => setContent(e.target.value)}
-                required
-                rows={12}
-                className={inputClass}
-              />
               <span className="text-xs text-white/40">
-                Pisahkan paragraf dengan satu baris kosong.
+                {excerpt.length}/160
               </span>
             </label>
+
+            <div className="flex flex-col gap-2 text-sm text-white/70">
+              <span>Isi berita</span>
+              <RichEditor value={content} onChange={setContent} />
+            </div>
 
             {error && <p className="text-sm text-red-400">{error}</p>}
 

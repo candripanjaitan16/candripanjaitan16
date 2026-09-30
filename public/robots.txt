@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /admin/
 
-Sitemap: https://www.chanthecno.co/sitemap.xml
+Sitemap: https://chanthecno.co/sitemap.xml
