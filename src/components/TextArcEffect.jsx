@@ -58,7 +58,7 @@ export default function TextArcEffect() {
       </motion.div>
 
       <a
-        href="https://chanthecno.com/chanthecnoai"
+        href="https://www.chanthecno.com"
         target="_blank"
         rel="noopener noreferrer"
         className="relative z-10"
